@@ -1,10 +1,11 @@
-# Project Title
+# Text2Motion Synthesis
 
-Project description - this section here is for describing the project.
+This project is an extension of my course CS674 project at UMass. In this project I setup my own pipeline for motion synthesis, without using any other
+pytorch deployment frameworks.
 
 ## Data
 
-Project data - this section here is for posting links for the data
+- KITML
 
 ## Best model
 
