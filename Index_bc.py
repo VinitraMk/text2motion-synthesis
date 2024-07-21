@@ -23,9 +23,9 @@ repo_name = "Image-Colorization"
 # %%
 # setup some imports
 #custom imports
-from transforms.transforms import ToTensor
-from dataloading.datareader import DataReader
-from dataloading.dataset import CustomDataset
+from common.transforms import ToTensor
+from datautils.datareader import DataReader
+from datautils.dataset import CustomDataset
 from common.utils import get_exp_params, init_config, get_config
 
 #py imports

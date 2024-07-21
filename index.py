@@ -1,8 +1,8 @@
 #custom imports
 import config
-from transforms.transforms import ToTensor
-from dataloading.datareader import DataReader
-from dataloading.dataset import CustomDataset
+from common.transforms import ToTensor
+from datautils.datareader import DataReader
+from datautils.dataset import CustomDataset
 from common.utils import get_exp_params
 
 #py imports
